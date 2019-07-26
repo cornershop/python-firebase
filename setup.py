@@ -8,7 +8,7 @@ setup(
     author = 'Michael Huynh',
     author_email = 'mike@mikexstudios.com',
     url = 'http://github.com/mikexstudios/python-firebase',
-    install_requires = ['requests >=1.2.0,<=2.10.0'],
+    install_requires = ['requests >=1.2.0,<3'],
     classifiers = [
         'Programming Language :: Python', 
         'License :: OSI Approved :: BSD License',
